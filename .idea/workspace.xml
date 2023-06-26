@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcf0aeff-59ba-4768-a6c8-b7fb3203ee86" name="Changes" comment="" />
+    <list default="true" id="dcf0aeff-59ba-4768-a6c8-b7fb3203ee86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jodie/utils/MailClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/95c0d0d5-b139-4197-a49f-4f47979140ae.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/95c0d0d5-b139-4197-a49f-4f47979140ae.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jodie/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jodie/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mail/activation.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mail/activation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/operate-result.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/operate-result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jodie/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jodie/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/mail/activation.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/mail/activation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/site/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/site/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/site/operate-result.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/site/operate-result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/site/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/site/register.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +34,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,34 +58,39 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="2RdHxpmEdGxSp1FmmZZuyobCGst" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/nowcoderProject/community/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaSE/tlias&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;82df41632da476065ce2997900554442&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\nowcoderProject\community\src\main\resources" />
@@ -85,6 +115,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MailTest.testHtmlMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jodie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jodie" />
+      <option name="MAIN_CLASS_NAME" value="com.jodie.MailTest" />
+      <option name="METHOD_NAME" value="testHtmlMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTest.testTextMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jodie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jodie" />
+      <option name="MAIN_CLASS_NAME" value="com.jodie.MailTest" />
+      <option name="METHOD_NAME" value="testTextMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.testInsertLoginTicket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jodie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jodie" />
+      <option name="MAIN_CLASS_NAME" value="com.jodie.MapperTest" />
+      <option name="METHOD_NAME" value="testInsertLoginTicket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.testSelectLoginTicket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jodie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jodie" />
+      <option name="MAIN_CLASS_NAME" value="com.jodie.MapperTest" />
+      <option name="METHOD_NAME" value="testSelectLoginTicket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="community" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jodie.CommunityApplication" />
@@ -94,6 +188,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MapperTest.testSelectLoginTicket" />
+        <item itemvalue="JUnit.MapperTest.testInsertLoginTicket" />
+        <item itemvalue="JUnit.MailTest.testHtmlMail" />
+        <item itemvalue="JUnit.MailTest.testTextMail" />
         <item itemvalue="JUnit.CommunityApplicationTests.testSelectPost" />
       </list>
     </recent_temporary>
@@ -106,12 +204,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687573287992</updated>
-      <workItem from="1687573289973" duration="17841000" />
+      <workItem from="1687573289973" duration="19155000" />
+      <workItem from="1687656605840" duration="25134000" />
+      <workItem from="1687740883515" duration="1220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
